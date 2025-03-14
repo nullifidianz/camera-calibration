@@ -1,5 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 ### GUIA RÁPIDO DE USO DO PROGRAMA DE CÁLCULO DE DISTÂNCIA ESTEREOSCÓPICA  
 
 ---
